@@ -313,6 +313,10 @@ input#mc-embedded-subscribe {
 	max-width: 550px; 
 }
 
+.twitter {
+	margin-top: 40px;
+}
+
 /* Countdown Timers */
 .mobile-timer {
 		display: none;

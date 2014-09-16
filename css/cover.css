@@ -316,7 +316,9 @@ input#mc-embedded-subscribe {
 .chat {
 margin-top: 20px;
 padding: 0;
+position: relative;
 }
+
 
 .chat_button {
 	color: #008080;
